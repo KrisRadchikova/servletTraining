@@ -43,3 +43,4 @@ The project is launched as a WAR file and can be deployed on servers that suppor
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/KrisRadchikova/servlet-c37.git
+# servletTraining
