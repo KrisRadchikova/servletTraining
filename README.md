@@ -15,11 +15,6 @@ The project is launched as a WAR file and can be deployed on servers that suppor
 - **Maven**: for managing customers and project collections.
 - **WAR**: for packaging the project.
 
-## Installation and launch of the project
-1. Copy the repository:
-   ```bash
-   git clone https://github.com/KrisRadchikova/servlet-c37.git
-
 --
 
 # Servlet - Учебный проект по работе с сервлетами
@@ -38,9 +33,3 @@ The project is launched as a WAR file and can be deployed on servers that suppor
 - **Servlet API**: версия 4.0.1
 - **Maven**: для управления зависимостями и сборки проекта.
 - **WAR**: для упаковки проекта.
-
-## Установка и запуск проекта
-1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/KrisRadchikova/servlet-c37.git
-# servletTraining
